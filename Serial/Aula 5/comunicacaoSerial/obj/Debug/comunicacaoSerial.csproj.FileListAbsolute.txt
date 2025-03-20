@@ -1,0 +1,10 @@
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 3\comunicacaoSerial\bin\Debug\comunicacaoSerial.exe.config
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 3\comunicacaoSerial\bin\Debug\comunicacaoSerial.exe
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 3\comunicacaoSerial\bin\Debug\comunicacaoSerial.pdb
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 3\comunicacaoSerial\obj\Debug\comunicacaoSerial.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 3\comunicacaoSerial\obj\Debug\comunicacaoSerial.Form1.resources
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 3\comunicacaoSerial\obj\Debug\comunicacaoSerial.Properties.Resources.resources
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 3\comunicacaoSerial\obj\Debug\comunicacaoSerial.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 3\comunicacaoSerial\obj\Debug\comunicacaoSerial.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 3\comunicacaoSerial\obj\Debug\comunicacaoSerial.exe
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 3\comunicacaoSerial\obj\Debug\comunicacaoSerial.pdb
